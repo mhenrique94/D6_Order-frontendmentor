@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,500;0,700;0,900;1,500;1,700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -8,6 +10,8 @@ body {
     width: 100vw;
     height: 100%;
     background-color: hsl(225, 100%, 94%);
+    font-family: 'Red Hat Display', sans-serif;
+    
 }
 
 .wrapper {
@@ -41,4 +45,78 @@ body {
 .pic img {
     width: 100%;
     border-radius: 20px 20px 0 0;
+}
+
+.descricao {
+    margin: 10%;
+    color: hsl(224, 23%, 55%);
+    
+}
+
+.descricao span {
+    
+    margin-bottom: 20px;
+    display: block;
+    
+}
+
+.resumopedido {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    color: hsl(224, 23%, 55%);
+    background-color: hsl(225, 100%, 98%);
+    justify-content: space-between;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.resumopedido span {
+    color: hsl(223, 47%, 23%);
+}
+
+.strong {
+    color: hsl(223, 47%, 23%);
+    font-weight: 700;
+}
+
+.fonte-regular {
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+
+.fonte-grande {
+    font-size: 18px;
+}
+
+.fonte-pequena {
+    font-size: 12px;
+}
+
+.block {
+    display: block;
+}
+
+.change {
+    background-color: transparent;
+    border: none;
+    color: hsl(245, 75%, 52%);
+}
+
+.pagamento {
+    background-color: hsl(245, 75%, 52%);
+    width: 90%;
+    color: white;
+    border: none;
+    padding: 14px;
+    border-radius: 10px;
+    margin: 15px;
+    font-weight: 700;
+}
+
+.cancelar {
+    background-color: transparent;
+    border: none;
+    margin: 15px;
+    color: hsl(224, 23%, 55%);
 }
