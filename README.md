@@ -4,7 +4,7 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 
 Essa é uma solução ao desafio Order summary component do Frontend Mentor, encontrado em [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/). A plataforma oferece desafios realistas com o intuito de melhorar a habilidade de desenvolvimento.
 
-Prévia:
+Prévia ([página do projeto](https://mhenrique94.github.io/D6_Order-frontendmentor/)):
 
 <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ouobx6tvyduidzio7wr7.jpg"/>
 
