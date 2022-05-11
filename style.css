@@ -40,6 +40,7 @@ body {
     margin: 10% auto;
     border-radius: 20px;
     background-color: white;
+    max-height: 570px;
 }
 
 .pic img {
